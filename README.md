@@ -5,4 +5,4 @@
 
  ___
  Пример работы калькулятора в командной строке
-![calc](https://i.gifer.com/3OPkE.gif) 
+<img src="https://i.gifer.com/3OPkE.gif" /></h1>
