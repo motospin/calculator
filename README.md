@@ -4,4 +4,4 @@
  ### <li>Decimal для вычислений с большей точность, так как точности float не достаточно. </li>
  ___
  Пример работы калькулятора в командной строке
-<https://github.com/motospin/calculator/blob/master/GIF_calculate.gif" /></h1>
+<img src=<https://github.com/motospin/calculator/blob/master/GIF_calculate.gif" /></h1>
