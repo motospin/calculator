@@ -1,6 +1,8 @@
-# calculator
-<img src="https://yapx.ru/v/T2HwR" /></h1>
+ # **Простой калькулятор на Python**
+ ## В проекте используются такие библиотеки как: "Tkinter", "Decimal"
+ ### <li>Tkinter для графического интерфейса. Будет добавлен в ближайшем будущем; </li>
+ ### <li>Decimal для вычислений с большей точность, так как точности float не достаточно. </li>
 
-https://yapx.ru/v/T2HwR
-https://yapx.ru/v/
-https://gifer.com/ru/gifs/%D0%B3%D1%83%D1%81%D1%8C
+ ___
+ Пример работы калькулятора в командной строке
+![calc](https://i.gifer.com/3OPkE.gif) 
